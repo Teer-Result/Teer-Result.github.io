@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://smddev12.github.io/sitemap.xml
+Sitemap: https://teer-result.github.io/sitemap.xml
