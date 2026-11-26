@@ -156,3 +156,11 @@ footer {
   border-top: 1px solid var(--border);
   margin-top: 32px;
 }
+
+@media (max-width: 640px) {
+  .hero { padding: 16px; margin: 16px 0; }
+  .hero h1 { font-size: 1.4rem; }
+  .section { padding: 16px; }
+  .round-num { font-size: 1.5rem; }
+  table { display: block; overflow-x: auto; white-space: nowrap; }
+}
